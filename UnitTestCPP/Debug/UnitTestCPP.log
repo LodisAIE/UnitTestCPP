@@ -1,0 +1,8 @@
+﻿  UnitTest.cpp
+C:\Users\Lodis.Perkins\Documents\GitHub\UnitTestCPP\MathLibrary\Headers\Vector4.h(4,1): warning C4099: 'Vector4': type name first seen using 'class' now seen using 'struct'
+C:\Users\Lodis.Perkins\Documents\GitHub\UnitTestCPP\MathLibrary\Headers\Vector4.h(3): message : see declaration of 'Vector4'
+C:\Users\Lodis.Perkins\Documents\GitHub\UnitTestCPP\MathLibrary\Headers\Vector3.h(4,1): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\Lodis.Perkins\Documents\GitHub\UnitTestCPP\MathLibrary\Headers\Vector3.h(3): message : see declaration of 'Vector3'
+C:\Users\Lodis.Perkins\Documents\GitHub\UnitTestCPP\MathLibrary\Headers\Vector2.h(4,1): warning C4099: 'Vector2': type name first seen using 'class' now seen using 'struct'
+C:\Users\Lodis.Perkins\Documents\GitHub\UnitTestCPP\MathLibrary\Headers\Vector2.h(3): message : see declaration of 'Vector2'
+  UnitTestCPP.vcxproj -> C:\Users\Lodis.Perkins\Documents\GitHub\UnitTestCPP\Debug\UnitTestCPP.exe
