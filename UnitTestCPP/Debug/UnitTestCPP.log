@@ -5,4 +5,5 @@ C:\Users\Lodis.Perkins\Documents\GitHub\UnitTestCPP\MathLibrary\Headers\Vector3.
 C:\Users\Lodis.Perkins\Documents\GitHub\UnitTestCPP\MathLibrary\Headers\Vector3.h(3): message : see declaration of 'Vector3'
 C:\Users\Lodis.Perkins\Documents\GitHub\UnitTestCPP\MathLibrary\Headers\Vector2.h(4,1): warning C4099: 'Vector2': type name first seen using 'class' now seen using 'struct'
 C:\Users\Lodis.Perkins\Documents\GitHub\UnitTestCPP\MathLibrary\Headers\Vector2.h(3): message : see declaration of 'Vector2'
+C:\Users\Lodis.Perkins\Documents\GitHub\UnitTestCPP\UnitTestCPP\UnitTest.cpp(5,11): warning C4930: 'UnitTest test(void)': prototyped function not called (was a variable definition intended?)
   UnitTestCPP.vcxproj -> C:\Users\Lodis.Perkins\Documents\GitHub\UnitTestCPP\Debug\UnitTestCPP.exe
